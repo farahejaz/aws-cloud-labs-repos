@@ -1,10 +1,11 @@
-## 🚀 Technologies I'm Working With:
-- ☁️ AWS (EC2, S3, IAM)
-- 🐧 Linux (Ubuntu, CLI)
-- 🐳 Docker & Containers
-- 🧰 Git & GitHub Actions (CI/CD)
-- 📝 Bash & Python (automation)
-- 🌱 Terraform (Infrastructure as Code)
+# My AWS Portfolio
 
+Hi, I’m Farah Ejaz! 👋  
+I’m currently learning AWS and building small cloud projects.  
 
-🔄 *Currently pushing commits daily and loving the process of becoming a DevOps Engineer!*
+## Projects
+- S3 Static Website — hosting a simple HTML site on S3
+- Lambda Function — testing serverless functions
+- EC2 Instance — running my first virtual server
+
+I’ll update this repo as I learn more!
